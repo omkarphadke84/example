@@ -17,7 +17,7 @@ limitations under the License.
 package main
 
 import (
-	"fmt"
+assdasd"fmt"
 
 	"github.com/golang/example/stringutil"
 )
