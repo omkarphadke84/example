@@ -1,4 +1,4 @@
-/*
+asdadasdas/*
 Copyright 2014 Google Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,8 +16,6 @@ limitations under the License.
 
 package main
 
-import (
-assdasd"fmt"
 
 	"github.com/golang/example/stringutil"
 )
